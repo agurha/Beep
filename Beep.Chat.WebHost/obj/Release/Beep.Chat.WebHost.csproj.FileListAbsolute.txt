@@ -1,0 +1,16 @@
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.WebHost\bin\Beep.Chat.WebHost.dll.config
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.WebHost\bin\Beep.Chat.WebHost.dll
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.WebHost\bin\Beep.Chat.WebHost.pdb
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.WebHost\bin\Beep.Chat.Services.dll
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.WebHost\bin\Beep.Chat.Services.pdb
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.WebHost\obj\Release\Beep.Chat.WebHost.csprojResolveAssemblyReference.cache
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.WebHost\obj\Release\Beep.Chat.WebHost.dll
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.WebHost\obj\Release\Beep.Chat.WebHost.pdb
+C:\Users\agurha\examples\Beep\Beep.Chat.WebHost\bin\Beep.Chat.WebHost.dll.config
+C:\Users\agurha\examples\Beep\Beep.Chat.WebHost\bin\Beep.Chat.WebHost.dll
+C:\Users\agurha\examples\Beep\Beep.Chat.WebHost\bin\Beep.Chat.WebHost.pdb
+C:\Users\agurha\examples\Beep\Beep.Chat.WebHost\bin\Beep.Chat.Services.dll
+C:\Users\agurha\examples\Beep\Beep.Chat.WebHost\bin\Beep.Chat.Services.pdb
+C:\Users\agurha\examples\Beep\Beep.Chat.WebHost\obj\Release\Beep.Chat.WebHost.csprojResolveAssemblyReference.cache
+C:\Users\agurha\examples\Beep\Beep.Chat.WebHost\obj\Release\Beep.Chat.WebHost.dll
+C:\Users\agurha\examples\Beep\Beep.Chat.WebHost\obj\Release\Beep.Chat.WebHost.pdb

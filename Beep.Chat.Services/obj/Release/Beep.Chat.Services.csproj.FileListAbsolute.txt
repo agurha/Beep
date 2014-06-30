@@ -1,0 +1,8 @@
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.Services\bin\Release\Beep.Chat.Services.dll
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.Services\bin\Release\Beep.Chat.Services.pdb
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.Services\obj\Release\Beep.Chat.Services.dll
+C:\Users\agurha\examples\Carubbi.Chat\Carubbi.Chat.Services\obj\Release\Beep.Chat.Services.pdb
+C:\Users\agurha\examples\Beep\Beep.Chat.Services\bin\Release\Beep.Chat.Services.dll
+C:\Users\agurha\examples\Beep\Beep.Chat.Services\bin\Release\Beep.Chat.Services.pdb
+C:\Users\agurha\examples\Beep\Beep.Chat.Services\obj\Release\Beep.Chat.Services.dll
+C:\Users\agurha\examples\Beep\Beep.Chat.Services\obj\Release\Beep.Chat.Services.pdb
